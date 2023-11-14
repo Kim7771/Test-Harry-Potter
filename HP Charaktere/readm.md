@@ -1,0 +1,15 @@
+from,to
+Harry,Hermine
+Harry,Ron
+Harry,Luna
+Harry,Ginny
+Hermine,Harry
+Hermine,Ron
+Ron,Harry
+Ron,Hermine
+Ron,Ginny
+Luna,Harry
+Luna,Ginny
+Ginny,Harry
+Ginny,Ron
+Ginny,Luna
